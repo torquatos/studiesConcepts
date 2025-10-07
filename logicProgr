@@ -25,3 +25,10 @@ algoritmo é o passo a passo da solução para uma tarefa ou problema
         <= menor ou igual
         = igual
         <> diferente
+
+    agrupamento de expressões matemáticas: consiste na divisão de uma expressão em partes menores, possibilitando a organização de cálculos complexos de forma clara. Nas expressões computacionais, é utilizado e aceito apenas e exclusivamente os parentesis para definir a hierarquia, enquanto a matemática aceita também chaves e colchetes, porém na programação, estes significam outras coisas
+
+    operadores aritméticos de divisão inteira (MOD e DIV)
+        MOD retorna o resto da divisão entre 2 números inteiros
+        DIV retorna o valor inteiro que resulta da divisão entre dois números inteiros
+
