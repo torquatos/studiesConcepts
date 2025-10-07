@@ -9,4 +9,19 @@ algoritmo é o passo a passo da solução para uma tarefa ou problema
 
         programação estruturada: possibilita a divisão do programa em subprogramas (procedimentos ou funções), isto acarreta a diminuição do tempo de programação para tarefas que sejam repetitivas, e consequentemente facilita a manutenção e minimiza os errors
 
-        programação orientada a eventos: programa é dividido em multiplas partes, estas partes são agregadas a objetos. Estes objetos são utilizados pelo ambiente sa linguagem e esses trechos 
+        programação orientada a eventos: programa é dividido em multiplas partes, estas partes são agregadas a objetos. Estes objetos são utilizados pelo ambiente sa linguagem e esses trechos do programa são chamados a partir de um evento, ou seja, pra que esse trecho seja "ativado" é necessário que ocorra uma ação, por exemplo um clique de um botão, o decorrer de um tempo estabelecido...
+
+    operadores matemáticos: 
+        + adiçao, 
+        - subtração, 
+        * multiplicação, 
+        / divisão e 
+        ^ ou ** exponenciação
+
+    operadores de comparação/relacionais: estabelecem a relação de ordem
+        > maior que
+        < menor que
+        >= maior ou igual
+        <= menor ou igual
+        = igual
+        <> diferente
