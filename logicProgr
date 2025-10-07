@@ -1,0 +1,12 @@
+Conceitos de Lógica de Programação - Review:
+
+    algoritmo: sequencia de instruções que será ordenada/organizada de uma forma lógica, com o objetivo de solucionar uma tarefa ou problema.
+algoritmo é o passo a passo da solução para uma tarefa ou problema
+
+    programa: é quando para a confecção de um algoritmo, se tem a utilização de uma linguagem de programação
+
+        programação sequencial: programa é descrito através de várias linhas e estas são executadas uma após a outra
+
+        programação estruturada: possibilita a divisão do programa em subprogramas (procedimentos ou funções), isto acarreta a diminuição do tempo de programação para tarefas que sejam repetitivas, e consequentemente facilita a manutenção e minimiza os errors
+
+        programação orientada a eventos: programa é dividido em multiplas partes, estas partes são agregadas a objetos. Estes objetos são utilizados pelo ambiente sa linguagem e esses trechos 
