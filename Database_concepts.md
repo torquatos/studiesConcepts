@@ -29,3 +29,10 @@
                     ex. DROP TABLE clients
             - TRUNCATE: used to remove all the data of a table but keeping the structure of the table. It's faster than the DELETE
                     ex. TRUNCATE TABLE
+
+        b. DML - Data Manipulation Language
+
+            - INSERT: used to insert new reisters in a table
+            - UPDATE: used to modify data already existent in your table
+            - DELETE:
+            - SELECT:
