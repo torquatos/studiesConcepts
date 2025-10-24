@@ -24,4 +24,8 @@
             - CREATE : used to create objects in a database 
                     ex. CREATE TABLE clients
             - ALTER: used to modify the structure of the already existing objects
-                    ex. ALTER TABLE clients ADD COLUMN phone
+                    ex. ALTER TABLE clients ADD COLUMN phone VARCHAR(25);
+            - DROP: used to remove objects from the database
+                    ex. DROP TABLE clients
+            - TRUNCATE: used to remove all the data of a table but keeping the structure of the table. It's faster than the DELETE
+                    ex. TRUNCATE TABLE
