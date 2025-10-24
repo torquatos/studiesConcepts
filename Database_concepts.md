@@ -16,3 +16,12 @@
 4 - Relational Database: organised using tables composed by lines and columns. The Lines are the registers and the columns are the attributes.
 
     4.1 To interact with the relational database, we use SQL - Structure Query Language
+
+    4.2 Most important commands:
+
+        a. DDL - Data Definition Language
+
+            - CREATE : used to create objects in a database 
+                    ex. CREATE TABLE clients
+            - ALTER: used to modify the structure of the already existing objects
+                    ex. ALTER TABLE clients ADD COLUMN phone
