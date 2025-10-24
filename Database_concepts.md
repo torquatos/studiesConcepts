@@ -12,3 +12,7 @@
 2 - Data: it is, in basic terms, facts and figures about anything.
 
 3 - Systematically:  that means that all data contains elements or features and attributes by which they can be identified 
+
+4 - Relational Database: organised using tables composed by lines and columns. The Lines are the registers and the columns are the attributes.
+
+    4.1 To interact with the relational database, we use SQL - Structure Query Language
