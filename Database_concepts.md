@@ -34,5 +34,5 @@
 
             - INSERT: used to insert new reisters in a table
             - UPDATE: used to modify data already existent in your table
-            - DELETE:
-            - SELECT:
+            - DELETE: used to remove registers from a table
+            - SELECT: used to consult data from one or more tables. It's the most used command and there are many clauses of filtring, ordering and grouping of data
