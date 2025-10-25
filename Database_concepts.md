@@ -37,4 +37,7 @@
             - UPDATE: used to modify data already existent in your table
                     ex. UPDATE clients SET email = 'anna.new@email.com' WHERE id = 1;
             - DELETE: used to remove registers from a table
+                    ex. DELETE FROM clients WHERE id = 1;
             - SELECT: used to consult data from one or more tables. It's the most used command and there are many clauses of filtring, ordering and grouping of data
+                    ex. SELECT name, email FROM clients WHERE id > 10; 
+                        SELECT * FROM clients - select all the data from the specified table
