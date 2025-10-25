@@ -48,3 +48,14 @@
             - REVOKE: used to revoke the permission of acess to the users
             - COMMIT: used to confirm the changes made in the database and turn them permanent
             - ROLLBACK: used to revert the alterations made to the previous state
+
+        d. Other commands:
+
+            - JOIN: used to combine data from two or more tables with base on related columns 
+                    * there are many types of JOIN, like INNER, LEFT, RIGHT, FULL, to the different kinds of combinations
+            - WHERE
+            - ORDER BY
+            - GROUP BY
+            - Chaves Primárias
+            - Chaves Estrangeiras
+            - Transações
