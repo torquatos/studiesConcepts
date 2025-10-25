@@ -57,6 +57,6 @@
             - ORDER BY: it's used to order the results of a SELECT command
             - GROUP BY: it's used to group results of a SELECT command with the base in one or more columns, usually used with aggregation functions - SUM, AVG, COUNT, MAX, MIN
             - Indices: data structures that accelerates the search in a table
-            - Primary Keys: 
-            - Chaves Estrangeiras
-            - Transações
+            - Primary Keys: columns or group of columns that identify each register of the table in an unique way.
+            - Foreign Keys: columns that stablish connections and the relatioship within the tables
+            - Transactions: a sequence of operations that are treatd as a single logical unit of work. They assure the integrity of the data, once all operations are confirmed  (COMMIT) or undone (ROLLBACK) in group 
