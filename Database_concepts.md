@@ -53,9 +53,10 @@
 
             - JOIN: used to combine data from two or more tables with base on related columns 
                     * there are many types of JOIN, like INNER, LEFT, RIGHT, FULL, to the different kinds of combinations
-            - WHERE
-            - ORDER BY
-            - GROUP BY
-            - Chaves Primárias
+            - WHERE: it's used to filter the data with a command SELECT, UPDATE or DELETE
+            - ORDER BY: it's used to order the results of a SELECT command
+            - GROUP BY: it's used to group results of a SELECT command with the base in one or more columns, usually used with aggregation functions - SUM, AVG, COUNT, MAX, MIN
+            - Indices: data structures that accelerates the search in a table
+            - Primary Keys: 
             - Chaves Estrangeiras
             - Transações
