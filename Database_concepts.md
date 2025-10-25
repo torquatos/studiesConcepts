@@ -33,6 +33,8 @@
         b. DML - Data Manipulation Language
 
             - INSERT: used to insert new reisters in a table
+                    ex. INSERT INTO clients (id, name, email) VALUES (1, 'Anna', 'anna@email.com')
             - UPDATE: used to modify data already existent in your table
+                    ex. UPDATE clients SET email = 'anna.new@email.com' WHERE id = 1;
             - DELETE: used to remove registers from a table
             - SELECT: used to consult data from one or more tables. It's the most used command and there are many clauses of filtring, ordering and grouping of data
