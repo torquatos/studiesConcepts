@@ -41,3 +41,10 @@
             - SELECT: used to consult data from one or more tables. It's the most used command and there are many clauses of filtring, ordering and grouping of data
                     ex. SELECT name, email FROM clients WHERE id > 10; 
                         SELECT * FROM clients - select all the data from the specified table
+
+        c. DCL - Data Control Language
+
+            - GRANT: used to give permission of access to the users
+            - REVOKE: used to revoke the permission of acess to the users
+            - COMMIT: used to confirm the changes made in the database and turn them permanent
+            - ROLLBACK: used to revert the alterations made to the previous state
