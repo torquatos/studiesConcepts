@@ -63,3 +63,11 @@
 
 
 5 - NoSQL - Non Relational Database: used to deal with big volumes of data and it's more flexible in relation to the data structure.
+
+        a - Documents Database
+        b - 
+        b - 
+        d - 
+        e - 
+
+
