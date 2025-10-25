@@ -60,3 +60,6 @@
             - Primary Keys: columns or group of columns that identify each register of the table in an unique way.
             - Foreign Keys: columns that stablish connections and the relatioship within the tables
             - Transactions: a sequence of operations that are treatd as a single logical unit of work. They assure the integrity of the data, once all operations are confirmed  (COMMIT) or undone (ROLLBACK) in group 
+
+
+5 - NoSQL - Non Relational Database: used to deal with big volumes of data and it's more flexible in relation to the data structure.
