@@ -30,3 +30,15 @@ conhecido como código de byte, e depois interpretam o código de byte
     - O código de byte proporciona portabilidade por ser um formato independente da plataforma, porém, como o python
 não é compilado até se tornar código de máquina binário, alguns programas serão executados mais lentamente em python
 do que se fossem executados em uma linguagem totalmente compilada.
+
+  - O que é possível fazer com Python?
+    - Programação de sistemas
+    - GUIs
+    - Scripts de Internet
+    - Integração de componentes
+    - Programação de Banco de Dados
+    - Composição rápida de protótipos
+    - Programação numérica
+    - Jogos, imagens, ia, xml...
+
+
