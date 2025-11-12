@@ -21,3 +21,12 @@ atuação das ferramentas de shell, linguagem de controle e facilidade de uso
     - Logo, a associação de Python a ser uma linguagem script depende do contexto, sendo que de modo geral, 
 a melhor utilização do termo script é para a o momento em que se descreve o modo de desenvolvimento rápido e 
 flexível que o Python suporta, em vez de um domínio de aplicação em particular
+
+  - Inconvenientes do Python
+    - conforme a implementação, sua velocidade de execução pode não ser sempre tão rápida quanto as linguagens
+compiladas, como C e C++
+    - as implementações padrão do Python atualmente compilam intruções do código-fonte em um formato intermediário
+conhecido como código de byte, e depois interpretam o código de byte
+    - O código de byte proporciona portabilidade por ser um formato independente da plataforma, porém, como o python
+não é compilado até se tornar código de máquina binário, alguns programas serão executados mais lentamente em python
+do que se fossem executados em uma linguagem totalmente compilada.
