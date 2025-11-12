@@ -13,4 +13,11 @@ Capítulo 1
   - Python é uma Linguagem de Script?
     - Python é uma linguagem de programação de propósito geral, frequentemente aplicada em funções de script
     - Pode vir a ser comumente chamada de kinguagem de script orientada a objetos, o que quer dizer que é 
-uma mistura de suporte para POO e orientação global voltada para script
+uma mistura de suporte para POO e orientação global voltada para script.
+    - Alguns utilizam o termo script como um sinonimo de programa que seja escrito em arquivo de código 
+python, porém alguns preferem que este termo não seja utilizado para descrever um programa python.
+    - Para os que se opõem à utilização do termo script como sinônimo de programa pyhton, há a observação da 
+atuação das ferramentas de shell, linguagem de controle e facilidade de uso
+    - Logo, a associação de Python a ser uma linguagem script depende do contexto, sendo que de modo geral, 
+a melhor utilização do termo script é para a o momento em que se descreve o modo de desenvolvimento rápido e 
+flexível que o Python suporta, em vez de um domínio de aplicação em particular
